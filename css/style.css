@@ -1,0 +1,23 @@
+.homerow{
+  padding: 20px;
+  background-color: #424242;
+  border-radius: 10px;
+}
+
+body{
+  color: white;
+  margin-top: 20px;
+}
+
+.caption{
+  color: black;
+}
+
+.well{
+  border-radius: 10px;
+}
+
+hr {
+    height: 4px;
+    background-color:#424242
+}
